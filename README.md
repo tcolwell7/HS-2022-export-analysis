@@ -1,6 +1,5 @@
 # HS-2022-export-analysis
 
-## Title
 
 ## Background 
 
